@@ -32,5 +32,9 @@ public class MahasiswaAksi {
         Andi.kelas="Non Reguler BJB 4C";
         Andi.jurusan="Teknik Informatika";
         Andi.ipk=3.0;
+        
+        Kambri.cetakInfo();
+        Suci.cetakInfo();
+        Andi.cetakInfo();
     }
 }
